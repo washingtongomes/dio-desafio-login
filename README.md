@@ -1,3 +1,35 @@
+
+# Dio
+    > Trilha Orange Tech
+    > Projeto construido junto Dio
+
+# Tecnologias
+
+    > HTML
+    > css - Styled Components
+    > Git & GitHub
+    > JavaScript
+
+![preview](./.github/preview.png)
+
+![preview](./.github/preview00.png)
+
+
+
+## Referência:
+
+  Professores Top:
+    - Pablo Henrique
+
+## Contato :
+
+[Dev aprendiz - Washington](https://www.github.com/washingtongomes)
+
+    wsgomes600@gmail.com
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
